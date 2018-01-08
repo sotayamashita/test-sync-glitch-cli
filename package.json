@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "name": "test-sync-glitch-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "sync-glitch-cli": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "echo \"Ignore glitch error\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sotayamashita/test-sync-glitch-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sotayamashita/test-sync-glitch-cli/issues"
+  },
+  "homepage": "https://github.com/sotayamashita/test-sync-glitch-cli#readme"
+}
