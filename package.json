@@ -3,13 +3,17 @@
   "name": "test-sync-glitch-cli",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
+  "engines": {
+    "node": "8.x"
+  },
   "dependencies": {
+    "express": "^4.16.2",
     "sync-glitch-cli": "^2.0.0"
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node ./index.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
