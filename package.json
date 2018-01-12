@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "echo \"Ignore glitch error\" && exit 0"
+    "start": "node ./index.js"
   },
   "repository": {
     "type": "git",
